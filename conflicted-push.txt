@@ -1,0 +1,1 @@
+This is conflicted line in branch
